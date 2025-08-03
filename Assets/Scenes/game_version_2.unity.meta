@@ -1,5 +1,14 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: 1836d311806c77b4da9a1cb5a7eca374
+=======
+<<<<<<<< HEAD:Assets/assets/2d_asset/Materials.meta
+guid: 4e6513da261d1bd43868b6bfd9daf1d7
+folderAsset: yes
+========
+guid: b2b54382a2068b7499563c635af07181
+>>>>>>>> 6db54e81a7b421ece9ef34855537e8330773aabe:Assets/Scenes/game_version_2.unity.meta
+>>>>>>> 6db54e81a7b421ece9ef34855537e8330773aabe
 DefaultImporter:
   externalObjects: {}
   userData: 
